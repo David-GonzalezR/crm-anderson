@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Suministros;Ingeniería y;;;
+FN:Ingeniería & Suministros
+ORG:I&S — Ingeniería & Suministros
+TITLE:Soluciones en Ingeniería y Suministros
+TEL;TYPE=CELL,VOICE:+573001234567
+EMAIL;TYPE=INTERNET:contacto@ing-suministros.com
+URL:https://ing-suministros.com
+ADR;TYPE=WORK:;;Calle 50 #25-30;Medellín;;;Colombia
+END:VCARD
