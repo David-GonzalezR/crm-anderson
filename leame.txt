@@ -1,0 +1,3 @@
+versel : davidgonzalez.dg560
+githut : https://github.com/David-GonzalezR/crm-anderson.git
+fecha: 28/07/2026

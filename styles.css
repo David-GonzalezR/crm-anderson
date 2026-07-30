@@ -96,12 +96,12 @@ body {
 
 .hero-info .role {
   margin: 0 0 2px;
-  font-size: 14px;
+  font-size: 22px;
   background: linear-gradient(90deg, #1e88e5, #64b5f6);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .hero-info .firm {
